@@ -1,0 +1,4 @@
+country_name,rank,year,gdppc,neighbor_direction,neighbor_name
+Liechtenstein,1,2008,141100,E,Austria,W,Switzerland
+Singapore,4,2011,59900,N,Malaysia
+Panama,68,2011,13600,W,Costa Rica,E,Colombia
